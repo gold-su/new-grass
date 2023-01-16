@@ -20,5 +20,8 @@ int main(){ //반복문 활용
 	}
 	//ide 오류좀 안났으면 좋겠다
 	
+	
+	//sosososososososososo tired
+	
 	return 0;
 }
