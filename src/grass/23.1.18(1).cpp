@@ -33,10 +33,10 @@ int main(){
 	int age;
 	cin >> age;
 	
-	if (age < 0 || age > 100){
+	if (age < 0 || age > 100){ //둘 중 하나라도 맞으면 ture가 나오는 || 논리합이기 때문에 cout을 실행
 		cout << "거짓말을 하시면 안됩니다!\n";
 	}
-	else if (20 <= age && age <= 29){
+	else if (20 <= age && age <= 29){ //두개의 표현식 모두 true가 나와야 true가 나오는 논리곱이기 때문에 cout 실행
 		cout <<"당신은 20대 이군요?\n";
 	}
 	else {
