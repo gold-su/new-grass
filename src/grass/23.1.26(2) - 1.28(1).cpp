@@ -25,3 +25,6 @@ int sumArr(int arr[], int n){ //배열과 배열의 사이즈를 받아옴. //su
 	
 	return total; //return을 통해서 total을 main에게 돌려줌 
 }
+
+
+//3일 뒤에 유료로 다시 시작할거임 ㅋㅋ
